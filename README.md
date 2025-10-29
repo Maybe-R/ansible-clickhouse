@@ -389,16 +389,6 @@ config_db | Only add&remove databases
 config_sys / Only regenerate dicts
 config | config_sys+config_db
 
-License
--------
 
-BSD
 
-Author Information
-------------------
 
-[ClickHouse](https://clickhouse.com/docs/en/index.html) by [ClickHouse, Inc.](https://clickhouse.com/company/).
-
-Role by [AlexeySetevoi](https://github.com/AlexeySetevoi).
-
-Dear contributors, thank you.
